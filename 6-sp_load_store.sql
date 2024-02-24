@@ -1,5 +1,5 @@
 /******************************************************
-** Store procedure to load the store dimension table **
+** Stored procedure to load the store dimension table **
 ******************************************************/
 
 
