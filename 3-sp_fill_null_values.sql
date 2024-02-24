@@ -1,5 +1,5 @@
 /*****************************************
-** Store procedure to fill nulll values **
+** Stored procedure to fill nulll values **
 *****************************************/
 
 
