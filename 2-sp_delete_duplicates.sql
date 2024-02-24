@@ -3,7 +3,7 @@
 ******************************************/
 
 
-create or replace procedure sp_deleteduplicates()
+create or replace procedure sp_delete_duplicates()
     returns string
     language SQL
 as
