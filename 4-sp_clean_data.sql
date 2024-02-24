@@ -1,5 +1,5 @@
 /**********************************************************
-** Store procedure to clean data from invalid characters **
+** Stored procedure to clean data from invalid characters **
 **********************************************************/
 
 
