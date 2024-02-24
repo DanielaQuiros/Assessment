@@ -1,5 +1,5 @@
 /********************************************************
-** Store procedure to load the address dimension table **
+** Stored procedure to load the address dimension table **
 ********************************************************/
 
 
