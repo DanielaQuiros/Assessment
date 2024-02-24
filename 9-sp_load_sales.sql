@@ -1,5 +1,5 @@
 /*********************************************
-** Store procedure to load sales fact table **
+** Stored procedure to load sales fact table **
 *********************************************/
 
 
