@@ -5,7 +5,7 @@
 
 --Data cleansing procedures
 
-call sp_deleteduplicates();
+call sp_delete_duplicates();
 call sp_fill_null_values();
 call sp_clean_data();
 
